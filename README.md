@@ -15,10 +15,14 @@ Conversion notes:
 * Source doc: https://docs.google.com/open?id=1sIorEva0JHPGjUlZBihoiGIootksj8HqQUjW8Vota0c
 ----->
 
+# Лабораторная работа
+# Студента группы ДПИ 22-1 Галкина Дениса Сергеевича
 
+## 1. “Работа с удаленными репозиториями и GitHub”
 
-## 1. Основы работы с СКВ в графическом режиме
-
+Пожалуйста, смотрите файл USER_HISTORY он иллюстрирует введенные в терминале команды.
+Форк был сделан отсюда: https://github.com/fa-python-network/0_git_basics (git Михаила Коротеева)
+С уважением, Галкин Д.С.
 
 ### Цель работы
 
